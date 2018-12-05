@@ -2,6 +2,6 @@ package hello;
 
 public class helloworld {
 	public static void main(String[] args) {
-        System.out.println("Hello, GitHub updated  test clone test.."); 
+        System.out.println("Hello, GitHub updated test test test test clone test.."); 
     }
 }
