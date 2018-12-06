@@ -3,8 +3,12 @@ package hello;
 public class helloworld {
 	public static void main(String[] args) {
         System.out.println("Hello, GitHub updated merge test clone test.."); 
-
+<<<<<<< HEAD
         System.out.println("Hello  test...."); 
+=======
+
+        System.out.println("Hello  test.test..."); 
+>>>>>>> 48d9db275d80fe2f10c35c66d08babc9b1a1e841
 
     }
 }
